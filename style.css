@@ -11,7 +11,8 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: #b0eeff;
+    background-color: #000000;
+    color: white;
     /* border-radius: 10px; */
 }
 
